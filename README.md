@@ -31,7 +31,7 @@ The tutorial to this method starts here:
 The package can be downloaded as a folder or a .zip file. Services like GitHub have this feature implemented, so you can easily
 access whole packages in the optimal format through the press of one button.
 
-<img src="guide-pictures/download.png" alt="Picture which demonstrates the GitHub UI." style="width:400px">
+<img src="tutorial-pictures/download.png" alt="Picture which demonstrates the GitHub UI." style="width:400px">
 
 After pressing the green <span style="color:rgb(0,255,0)">Code</span> button, you can press the **Download ZIP** button to get a .zip file of the package.
 <br>
@@ -42,9 +42,9 @@ the .zip file which is manually included in this repository. The zip can be acqu
 The .zip file has to be located somewhere, where your `main.py` will be able to access it via filepath. You are
 allowed to choose between relative and absolute filepath.
 <br>
-In this guide, a **relative** filepath is used with the ZIP file located in the same directory as the `main.py`.
+In this tutorial, a **relative** filepath is used with the ZIP file located in the same directory as the `main.py`.
 
-<img src="guide-pictures/files.png" alt="Both files are located in the same directory." style="width:400px">
+<img src="tutorial-pictures/files.png" alt="Both files are located in the same directory." style="width:400px">
 
 ### 3. Importing the package
 To import the package you have to first import the `sys` module, which is a standard python module.
