@@ -1,0 +1,1 @@
+# The code here will run, if you import from emptypackage or any part inside it.
